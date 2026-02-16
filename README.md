@@ -1,6 +1,6 @@
 # Minecraft Smart Translator / Minecraft 智能翻译工具
 
-> **CN**: 本仓库当前公开翻译核心源码，并提供完整的客户端/服务端/发布使用说明（中英双语）。  
+> **CN**: 本仓库当前公开翻译核心源码，并提供完整的客户端/服务端/发布使用说明。  
 > **EN**: This repository currently exposes translation-core source code and includes complete bilingual guides for client, server, and release workflow.
 
 ## 1) 项目简介 / Project Overview
